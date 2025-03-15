@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # Food-Delivery-Webapp
-=======
 # Zomato Clone
 
 A Zomato clone web application built with MERN Stack.
@@ -56,8 +55,7 @@ This project aims to replicate the key features of the Zomato application, provi
 1. **Clone the repository:**
 
    ```bash
-   git clone git@github.com:Sanjoy-droid/Zomato-Clone-using-MERN-Stack.git
-
+   git clone https://github.com/himanshu-warulkar/Food-Delivery-Webapp.git
    ```
 
 2. **Install dependencies:**
@@ -97,4 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This Zomato Clone project is created for educational purposes, aiming to showcase skills in web development and React programming. It is not an official Zomato product, and all credits for the original Zomato platform go to the dedicated team at Zomato. The use of the term "Zomato" is for descriptive purposes only.
 
 This project is not intended for commercial use or to imply any official association with Zomato. All trademarks, registered trademarks, and service marks mentioned herein are the property of their respective owners.
->>>>>>> daf5611 (initial)
+
